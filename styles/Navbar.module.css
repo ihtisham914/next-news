@@ -1,0 +1,17 @@
+.main {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  background-color: azure;
+  gap: 60px;
+}
+
+.main div {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.main div:hover {
+  color: rgb(87, 86, 86);
+}
